@@ -1,0 +1,14 @@
+/*Reset CSS*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Stile generale*/
+body{
+    width: 100%;
+    max-width: 512px;
+    margin: 0 auto;
+}
+
