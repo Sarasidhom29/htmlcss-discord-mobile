@@ -12,10 +12,28 @@ body{
     margin: 0 auto;
 }
 
+/*Utility class*/
+
+
+.dm-sans-text{
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+}
+
+.sigmar-regular {
+  font-family: "Sigmar", sans-serif;
+  font-style: normal;
+}  
+
+.text-center{
+    text-align: center;
+}
 
 /*header*/
 .bg-img{
     width: 512px;
 }
+
+
 
 
